@@ -152,26 +152,26 @@ So i decided to run it automatically on the background at specific time or event
 - Go to **start** and search **Task scheduler**
 - Press *"Create Task"*
 
-	![task 1](\images\taskshceduler\1.png)
+	![task 1](./images/taskshceduler/1.png)
 
 - Provide these information:
 	- Name for the task
 	- Description (Optional)
 	- Configure for (according to your system)
 
-		![task 2](\images\taskshceduler\2.png)
+		![task 2](./images/taskshceduler/2.png)
 
 - Press *"Triggers"* Press *"New"*
 
-	![task 3](\images\taskshceduler\3.png)
+	![task 3](./images/taskshceduler/3.png)
 
 - Add the needed information according to your task just make sure the **"Enabled"** check box is checked
 
-	![task 4](\images\taskshceduler\4.png)
+	![task 4](./images/taskshceduler/4.png)
 
 - Press *"Actions"* Press *"New"*
 
-	![task 5](\images\taskshceduler\5.png)
+	![task 5](./images/taskshceduler/5.png)
 
 - ### Here you need to be very specific:
 	- **Program/script** : Add your python.exe path<br>(Run this on your command line) and copy paste the path
@@ -183,20 +183,20 @@ So i decided to run it automatically on the background at specific time or event
 	- **Add arguments** : Add your python file path
 	- **Start in** : Sometimes you will need to add this ( Parent path ) too<br> do it incase you ended up getting (0x01) Error
 
-		![task 6](\images\taskshceduler\6.png)
+		![task 6](./images/taskshceduler/6.png)
 
 - Now you have a ready to run task 
 
-	![task 7](\images\taskshceduler\7.png)
+	![task 7](./images/taskshceduler/7.png)
 
 
 # Example
 
 - Here is a screenshot of how the notification will look like
 
-	![notification](\images\notification1.png)
+	![notification](./images/notification1.png)
 
 - Here how the notification bar will look like on missed notifications
 	- You can change the **message** or the **title** on the notification bar as you wish, you can even add an icon (As shown)
 
-	![notification](\images\notification_bar.png)
+	![notification](./images/notification_bar.png)
